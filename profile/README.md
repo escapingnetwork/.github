@@ -3,7 +3,7 @@ https://escaping.network
 
 ## Urbit
 
-~dibref-labter/escaping-network
+~dibref-labter/esc
 
 ## Docker Hub
 
